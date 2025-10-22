@@ -265,7 +265,7 @@ Stays ahead of competition:
 
 ## 🗺️ Roadmap
 
-### ✅ Phase 1: MVP (Q1 2025)
+### ✅ Phase 1: MVP (Q4-Q1 2025-2026)
 - [x] Core CRM features
 - [x] 3 free AI agents
 - [x] License key system
@@ -273,20 +273,20 @@ Stays ahead of competition:
 - [ ] Documentation
 - [ ] Product Hunt launch
 
-### 🚧 Phase 2: Intelligence (Q2 2025)
+### 🚧 Phase 2: Intelligence (Q2-Q3 2026)
 - [ ] 10+ premium agents
 - [ ] No-code agent builder
 - [ ] Agent marketplace (beta)
 - [ ] Voice AI agents
 - [ ] Multi-agent orchestration
 
-### 📅 Phase 3: Scale (Q3-Q4 2025)
+### 📅 Phase 3: Scale (Q4-Q5 2026)
 - [ ] Enterprise features (SSO, RBAC)
 - [ ] Industry agent packs (Medical, Real Estate, SaaS)
 - [ ] Mobile apps (iOS/Android)
 - [ ] Cloud-hosted option
 
-### 🔮 Phase 4: Platform (2026)
+### 🔮 Phase 4: Platform (2027)
 - [ ] Agent SDK (Python/TypeScript/Go)
 - [ ] Public API v2 (GraphQL)
 - [ ] Advanced integrations
