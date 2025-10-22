@@ -1,18 +1,18 @@
-# 🤖 AgentFlow CRM
+# 🤖 KinetiFlow CRM
 
 **The CRM where AI Agents do the work, you close the deals.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/huzaifa525/agentflow?style=social)](https://github.com/huzaifa525/agentflow)
-[![GitHub Issues](https://img.shields.io/github/issues/huzaifa525/agentflow)](https://github.com/huzaifa525/agentflow/issues)
-[![GitHub Forks](https://img.shields.io/github/forks/huzaifa525/agentflow)](https://github.com/huzaifa525/agentflow/network)
+[![GitHub Stars](https://img.shields.io/github/stars/huzaifa525/KinetiFlow?style=social)](https://github.com/huzaifa525/KinetiFlow)
+[![GitHub Issues](https://img.shields.io/github/issues/huzaifa525/KinetiFlow)](https://github.com/huzaifa525/KinetiFlow/issues)
+[![GitHub Forks](https://img.shields.io/github/forks/huzaifa525/KinetiFlow)](https://github.com/huzaifa525/KinetiFlow/network)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue)](https://www.docker.com/)
 
 ---
 
-## 🎯 What is AgentFlow?
+## 🎯 What is KinetiFlow?
 
-AgentFlow is an **open-source, self-hosted, AI-powered CRM** that leverages autonomous AI agents to automate 80% of sales and relationship management tasks. Unlike traditional CRMs that require constant manual data entry, AgentFlow uses intelligent agents that work 24/7 to:
+KinetiFlow is an **open-source, self-hosted, AI-powered CRM** that leverages autonomous AI agents to automate 80% of sales and relationship management tasks. Unlike traditional CRMs that require constant manual data entry, KinetiFlow uses intelligent agents that work 24/7 to:
 
 - 🔄 **Automatically populate contact information** from emails and meetings
 - 📧 **Conduct outreach and follow-ups** autonomously
@@ -64,8 +64,8 @@ AgentFlow is an **open-source, self-hosted, AI-powered CRM** that leverages auto
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/huzaifa525/agentflow.git
-cd agentflow
+git clone https://github.com/huzaifa525/KinetiFlow.git
+cd KinetiFlow
 
 # 2. Copy environment file
 cp .env.example .env
@@ -73,7 +73,7 @@ cp .env.example .env
 # 3. Edit configuration (optional - defaults work fine)
 nano .env
 
-# 4. Start AgentFlow
+# 4. Start KinetiFlow
 docker-compose up -d
 
 # 5. Open browser
@@ -82,7 +82,7 @@ http://localhost:3000
 # 6. Create admin account (follow on-screen instructions)
 ```
 
-That's it! Your AgentFlow CRM is now running. 🎉
+That's it! Your KinetiFlow CRM is now running. 🎉
 
 ---
 
@@ -235,13 +235,13 @@ Stays ahead of competition:
 
 ## 📖 Documentation
 
-- **Full Documentation:** [docs.agentflow.com](https://docs.agentflow.com) (Coming soon)
-- **API Reference:** [api.agentflow.com](https://api.agentflow.com) (Coming soon)
-- **Agent Development Guide:** [See Wiki](https://github.com/huzaifa525/agentflow/wiki)
+- **Full Documentation:** [docs.KinetiFlow.com](https://docs.KinetiFlow.com) (Coming soon)
+- **API Reference:** [api.KinetiFlow.com](https://api.KinetiFlow.com) (Coming soon)
+- **Agent Development Guide:** [See Wiki](https://github.com/huzaifa525/KinetiFlow/wiki)
 
 ---
 
-## 🌟 Why AgentFlow?
+## 🌟 Why KinetiFlow?
 
 ### vs. Salesforce/HubSpot
 - ✅ **90% cheaper** - $49 flat vs $75-300/user/month
@@ -310,7 +310,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 
 ## 📄 License
 
-AgentFlow is open source under the [MIT License](LICENSE).
+KinetiFlow is open source under the [MIT License](LICENSE).
 
 ```
 Copyright (c) 2025 Huzefa Nalkheda Wala
@@ -326,10 +326,10 @@ See [LICENSE](LICENSE) for full text.
 
 ## 💬 Community & Support
 
-- **Discord:** [discord.gg/agentflow](https://discord.gg/agentflow) (Coming soon)
-- **GitHub Discussions:** [Ask questions](https://github.com/huzaifa525/agentflow/discussions)
-- **Twitter:** [@agentflowcrm](https://twitter.com/agentflowcrm) (Coming soon)
-- **Email:** support@agentflow.com (Coming soon)
+- **Discord:** [discord.gg/KinetiFlow](https://discord.gg/KinetiFlow) (Coming soon)
+- **GitHub Discussions:** [Ask questions](https://github.com/huzaifa525/KinetiFlow/discussions)
+- **Twitter:** [@KinetiFlowcrm](https://twitter.com/KinetiFlowcrm) (Coming soon)
+- **Email:** support@KinetiFlow.com (Coming soon)
 
 ---
 
@@ -346,7 +346,7 @@ Built with amazing open-source tools:
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=huzaifa525/agentflow&type=Date)](https://star-history.com/#huzaifa525/agentflow&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=huzaifa525/KinetiFlow&type=Date)](https://star-history.com/#huzaifa525/KinetiFlow&Date)
 
 ---
 
@@ -362,6 +362,6 @@ Built with amazing open-source tools:
 
 **Made with ❤️ by [Huzefa Nalkheda Wala](https://github.com/huzaifa525)**
 
-**[⭐ Star us on GitHub](https://github.com/huzaifa525/agentflow) • [🐛 Report Bug](https://github.com/huzaifa525/agentflow/issues) • [💡 Request Feature](https://github.com/huzaifa525/agentflow/issues)**
+**[⭐ Star us on GitHub](https://github.com/huzaifa525/KinetiFlow) • [🐛 Report Bug](https://github.com/huzaifa525/KinetiFlow/issues) • [💡 Request Feature](https://github.com/huzaifa525/KinetiFlow/issues)**
 
 </div>
