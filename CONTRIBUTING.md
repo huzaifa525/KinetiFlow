@@ -1,8 +1,8 @@
-# Contributing to AgentFlow
+# Contributing to KinetiFlow
 
-First off, thank you for considering contributing to AgentFlow! 🎉
+First off, thank you for considering contributing to KinetiFlow! 🎉
 
-It's people like you that make AgentFlow such a great tool. We welcome contributions from everyone, whether you're fixing a typo, adding a feature, or building a custom agent.
+It's people like you that make KinetiFlow such a great tool. We welcome contributions from everyone, whether you're fixing a typo, adding a feature, or building a custom agent.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ It's people like you that make AgentFlow such a great tool. We welcome contribut
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to support@agentflow.com.
+This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to support@KinetiFlow.com.
 
 ---
 
@@ -26,7 +26,7 @@ This project and everyone participating in it is governed by our [Code of Conduc
 
 ### 🐛 Reporting Bugs
 
-Before creating bug reports, please check the [existing issues](https://github.com/huzaifa525/agentflow/issues) to avoid duplicates.
+Before creating bug reports, please check the [existing issues](https://github.com/huzaifa525/KinetiFlow/issues) to avoid duplicates.
 
 When creating a bug report, include:
 - **Clear title and description**
@@ -43,7 +43,7 @@ Feature requests are welcome! Before submitting:
 - Provide a clear use case for the feature
 - Explain how it would benefit other users
 
-Open a [GitHub Issue](https://github.com/huzaifa525/agentflow/issues/new) with the label `enhancement`.
+Open a [GitHub Issue](https://github.com/huzaifa525/KinetiFlow/issues/new) with the label `enhancement`.
 
 ### 📝 Improving Documentation
 
@@ -80,11 +80,11 @@ We welcome code contributions! See the [Development Setup](#development-setup) s
 # 1. Fork the repository on GitHub
 
 # 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/agentflow.git
-cd agentflow
+git clone https://github.com/YOUR_USERNAME/KinetiFlow.git
+cd KinetiFlow
 
 # 3. Add upstream remote
-git remote add upstream https://github.com/huzaifa525/agentflow.git
+git remote add upstream https://github.com/huzaifa525/KinetiFlow.git
 
 # 4. Install backend dependencies
 cd backend
@@ -296,7 +296,7 @@ pnpm format
 
 ## Building Custom Agents
 
-Agents are at the heart of AgentFlow! Here's how to build one:
+Agents are at the heart of KinetiFlow! Here's how to build one:
 
 ### Agent Structure
 
@@ -344,7 +344,7 @@ class MyCustomAgent(BaseAgent):
 
     async def execute(self, input_data: dict) -> dict:
         """
-        Main execution method called by AgentFlow.
+        Main execution method called by KinetiFlow.
 
         Args:
             input_data: Input parameters for the agent
@@ -482,16 +482,16 @@ LLM initialization logic to BaseAgent class.
 
 ## Questions?
 
-- **Discord:** [Join our community](https://discord.gg/agentflow) (Coming soon)
-- **GitHub Discussions:** [Ask questions](https://github.com/huzaifa525/agentflow/discussions)
-- **Email:** support@agentflow.com (Coming soon)
+- **Discord:** [Join our community](https://discord.gg/KinetiFlow) (Coming soon)
+- **GitHub Discussions:** [Ask questions](https://github.com/huzaifa525/KinetiFlow/discussions)
+- **Email:** support@KinetiFlow.com (Coming soon)
 
 ---
 
 ## License
 
-By contributing to AgentFlow, you agree that your contributions will be licensed under the MIT License.
+By contributing to KinetiFlow, you agree that your contributions will be licensed under the MIT License.
 
 ---
 
-**Thank you for contributing to AgentFlow! 🚀**
+**Thank you for contributing to KinetiFlow! 🚀**
